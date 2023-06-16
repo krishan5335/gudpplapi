@@ -1,0 +1,17 @@
+.idea
+.classpath
+.project
+.settings/*
+*.iml
+*.ipr
+*.iws
+*.properties
+/target
+config/local.properties
+/bin/
+/.idea/*
+*.iml
+/*.DS_Store/
+/target/*
+.DS_Store
+

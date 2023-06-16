@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="regression" verbose="1" configfailurepolicy="continue">
+    <listeners>
+        <listener class-name="com.gudppl.qe.api.listeners.TestListener"/>
+    </listeners>
+    <test name="regression">
+        <packages>
+            <package name="com.gudppl.qe.api.tests"/>
+        </packages>
+    </test>
+</suite>
+
