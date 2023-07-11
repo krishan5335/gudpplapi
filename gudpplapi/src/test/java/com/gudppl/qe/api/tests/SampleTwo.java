@@ -20,7 +20,7 @@ public class SampleTwo extends TestBase {
 //
 //        softAssert.assertEquals(usGet.support.url, "123","value");
 //        softAssert.assertEquals(usGet.support.text, "123","value");
-
+// new
 
 
         softAssert.assertAll();
