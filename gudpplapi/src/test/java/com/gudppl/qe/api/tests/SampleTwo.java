@@ -23,6 +23,7 @@ public class SampleTwo extends TestBase {
 //new/
 
 
+
         softAssert.assertAll();
     }
 
