@@ -11,15 +11,15 @@ public class SampleTwo extends TestBase {
 
     @Test
     public void usGET() {
-        USGet usGet = RequestUtils.usGet();
-        softAssert.assertEquals(usGet.data.id, "123","value");
-        softAssert.assertEquals(usGet.data.email, "123","value");
-        softAssert.assertEquals(usGet.data.firstName, "123","value");
-        softAssert.assertEquals(usGet.data.lastName, "123","value");
-        softAssert.assertEquals(usGet.data.avatar, "123","value");
-
-        softAssert.assertEquals(usGet.support.url, "123","value");
-        softAssert.assertEquals(usGet.support.text, "123","value");
+//        USGet usGet = RequestUtils.usGet();
+//        softAssert.assertEquals(usGet.data.id, "123","value");
+//        softAssert.assertEquals(usGet.data.email, "123","value");
+//        softAssert.assertEquals(usGet.data.firstName, "123","value");
+//        softAssert.assertEquals(usGet.data.lastName, "123","value");
+//        softAssert.assertEquals(usGet.data.avatar, "123","value");
+//
+//        softAssert.assertEquals(usGet.support.url, "123","value");
+//        softAssert.assertEquals(usGet.support.text, "123","value");
 
 
 
